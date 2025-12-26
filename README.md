@@ -2,6 +2,10 @@
 Calculation validation Script in Python for "Impulsive Dynamics and Eternal Cycles: The Cosmic Bounce as a Thermodynamic" Thesis
 # 🚀 SCRIPTS DE VALIDATION REBOND COSMIQUE
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18060251.svg)](https://doi.org/10.5281/zenodo.18060251)
+
+Validation code for HAL preprint: [hal-05431434](https://hal.science/hal-05431434)
+
 ## ✅ STATUT : ENTIÈREMENT FONCTIONNEL
 ## 📋 DESCRIPTION
 
